@@ -1,0 +1,29 @@
+
+[
+
+    {
+
+        "turma" : "turma",
+        "periodo" : "periodo",
+        "Nome" : "Bianca",
+        "nota1Bim" : 6.7,
+        "nota2Bim" : 8.6,
+        "media": 0,
+        "aprovado" : true
+
+    }
+,
+    {
+
+        "turma" : "turma",
+        "periodo" : "periodo",
+        "Nome" : "abc",
+        "nota1Bim" : 9.5,
+        "nota2Bim" : 5.5,
+        "media": 0,
+        "aprovado" : true
+
+    }
+
+]
+
